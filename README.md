@@ -12,8 +12,30 @@
 
 
 ---
-```
-window.addevencherlistener("look" , ()=>{consol.log("hello :)")})
+```javascript
+
+
+const SEPEHR = {
+langs:["javascript" , "html" , "css" , 'python' , "typescript" , "sql"],
+tools:[
+"react" ,
+"next" ,
+"tailwind" ,
+"bootstarp" ,
+"vue" ,"node",
+"mysql" ,
+"redux" ,
+"canvas" ,
+"mui"],
+achivment : [
+" A professor at the university" ,
+"Participant in algorithmic competitions at Sharif University"] , 
+
+}
+
+
+
+
 ```
 ---
 
@@ -48,43 +70,4 @@ window.addevencherlistener("look" , ()=>{consol.log("hello :)")})
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
 
-<br>
-
-<ul>
-<li>
-  javascript
-<ul>
-<li>react</li>
-<li>next</li>
-<li>vue</li>
-<li>typscript</li>
-<li>node</li>
-<li>express</li>
-</ul>
-  
-</li>
-
-
-<li>
-css
-<ul>  
-<li>tailwind</li>  
-<li>mui</li>  
-<li>responsive</li>  
-<li>sass</li>  
-</ul>  
-</li>
-
-
-<li>python
-<ul>
-<li>in Processing...</li>
-</ul>
-</li>
-<li>database<ul><li>mysql</li></ul>
-</li>
-
-<li>html</li>
-  
-</ul>
 
