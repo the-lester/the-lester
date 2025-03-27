@@ -3,3 +3,7 @@
 <h3>  love to  solving algorithmic problems</h3>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=the-lester&show_icons=true&theme=dracula">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&langs_count=8">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&layout=compact">
