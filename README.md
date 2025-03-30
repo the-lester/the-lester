@@ -1,15 +1,21 @@
-<img style="width:100%" src=https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572 />
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400px" align="center" />
+</p>
 
 
 <div align="center">
 <h1 > hi i am sepehr borji </h1> 
-</div>
-
-
-<div align="center">
 <h3> frontend developer and backend enjoyer love to  solving algorithmic problems</h3>
 </div>
 
+---
+
+
+
+<img style="width:100%" src=https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572 />
 
 
 
@@ -30,18 +36,12 @@
 </p>
 
 </div>
----
-
----
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-
-
-<br>
 
 
 
 
 ---
+
 ```javascript
 
 
@@ -68,11 +68,7 @@ achivment : [
 
 ```
 
-
-
-
 ---
-
 
 ### Skills
 
@@ -100,11 +96,5 @@ achivment : [
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
 
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400px" align="center" />
-</p>
 
 <img style="width:100%" src=https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg />
