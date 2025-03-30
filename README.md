@@ -1,7 +1,6 @@
 <img style="width:100%" src=https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572 />
 
 
-
 <div align="center">
 <h1 > hi i am sepehr borji </h1> 
 </div>
@@ -77,13 +76,8 @@ achivment : [
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,apollo,zustand)](https://github.com/MersadHabibi)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,git,react,next,redux,materialui,vite,bootstrap,mysql,vue,nodejs,py)](https://github.com/MersadHabibi)
 
-<!-- [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![](https://img.shields.io/badge/Tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/swiper-0080FF?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) -->
 
 
 
