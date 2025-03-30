@@ -1,3 +1,7 @@
+<img style="width:100%" src=https://camo.githubusercontent.com/4c84ab4279f6dee7ee97a7aac724bd71759e7b7791f3528ebdf5247687524f66/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383231464637266865696768743d3132302673656374696f6e3d686561646572 />
+
+
+
 <div align="center">
 <h1 > hi i am sepehr borji </h1> 
 </div>
@@ -16,46 +20,26 @@
 
 
 <div align="center">
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=the-lester&theme=tokyonight" />
+  <br/>
+  <br/>
+<div align="center" >
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=the-lester&show_icons=true&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&theme=tokyonight" />
+</div>
+</p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-lester&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&layout=donut)](https://github.com/Ghorbani-Dev1985/github-readme-stats)
 </div>
 ---
 
 ---
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<h2>📞 &nbsp; Connct Me </h2>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-xxxxxx-blue?style=flat&logo=google-chrome" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-@lester2_2-red?style=flat&logo=instagram" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-@sepehrredz-blue?style=flat&logo=telegram" />
-  </a>
-</p>
-
-
-
-
 
 <br>
-
-
-
-<div align="center">
-<img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
-</div>
-
-<div align="center">
-
-
-</div>
 
 ---
 ```javascript
@@ -83,22 +67,24 @@ achivment : [
 
 
 ```
+
+
+
+
 ---
 
 
 ### Skills
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next,redux,webpack,vite,graphql,apollo,zustand)](https://github.com/MersadHabibi)
+
+<!-- [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![](https://img.shields.io/badge/Tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/swiper-0080FF?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/) -->
+
 
 
 ### Social
@@ -120,3 +106,11 @@ achivment : [
 </a>
 
 
+
+
+<div align="center">
+<img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
+</div>
+
+
+<img style="width:100%" src=https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg />
