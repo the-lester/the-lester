@@ -76,7 +76,7 @@ achivment : [
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,git,react,next,redux,materialui,vite,bootstrap,mysql,vue,nodejs,py)](https://github.com/MersadHabibi)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,git,react,next,redux,materialui,vite,postman,bootstrap,mysql,vue,nodejs,py)](https://github.com/MersadHabibi)
 
 
 
