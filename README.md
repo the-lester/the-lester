@@ -1,15 +1,61 @@
-<h1 style="color:'red " > hi i am sepehr borji </h1> 
-<img src="https://img.shields.io/badge/who_i-am-blue">
+<div align="center">
+<h1 > hi i am sepehr borji </h1> 
+</div>
+
+
+<div align="center">
 <h3> frontend developer and backend enjoyer love to  solving algorithmic problems</h3>
-<br>
-<img src="https://img.shields.io/badge/my-status-blue">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-lester&show_icons=true&theme=dracula">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&langs_count=8">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&layout=compact">
 
+
+
+
+
+<h2>⚡️ &nbsp; Github Stats</h2>
+
+
+<div align="center">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-lester&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&layout=donut)](https://github.com/Ghorbani-Dev1985/github-readme-stats)
+</div>
+---
+
+---
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+
+<h2>📞 &nbsp; Connct Me </h2>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-xxxxxx-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-@lester2_2-red?style=flat&logo=instagram" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-@sepehrredz-blue?style=flat&logo=telegram" />
+  </a>
+</p>
+
+
+
+
+
+<br>
+
+
+
+<div align="center">
+<img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
+</div>
+
+<div align="center">
+
+
+</div>
 
 ---
 ```javascript
@@ -63,6 +109,9 @@ achivment : [
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
 </p>
+
+
+
 
 ### Support Me
 
