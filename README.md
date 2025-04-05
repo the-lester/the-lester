@@ -11,7 +11,7 @@
 
 
 
-
+ 
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
@@ -56,6 +56,11 @@ achivment : [
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,git,react,next,redux,materialui,vite,postman,bootstrap,mysql,vue,nodejs,py)](https://github.com/MersadHabibi)
 
+
+<picture>
+    <img src="astronomy.gif" width="30%" align="right" />
+  </picture>
+
 ### Social
 
 <p align="left">
@@ -65,18 +70,22 @@ achivment : [
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
 </p>
 
+
+
+
+
 ### Support Me
 
 <a href="">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
 
-<img style="width:100%" src=https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg />
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=the-lester&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<img style="width:100%" src=https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg />
 
 
 
