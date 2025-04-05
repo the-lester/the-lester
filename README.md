@@ -19,9 +19,9 @@
 <p>
 <div align="center" >
   
-  <img src="https://github-readme-stats.vercel.app/api?username=bardyavahydy&rank_icon=github&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bardyavahydy&rank_icon=github&theme=synthwave" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lester&theme=synthwave" />
 </div>
 </p>
 </div>
