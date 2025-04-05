@@ -57,9 +57,8 @@ achivment : [
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,git,react,next,redux,materialui,vite,postman,bootstrap,mysql,vue,nodejs,py)](https://github.com/MersadHabibi)
 
 
-<picture>
-    <img src="astronomy.gif" width="30%" align="right" />
-  </picture>
+<img src="astronomy.gif" width="30%" align="right" />
+
 
 ### Social
 
@@ -77,7 +76,7 @@ achivment : [
 ### Support Me
 
 <a href="">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="190" />
 </a>
 
 
