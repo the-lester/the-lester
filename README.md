@@ -14,9 +14,6 @@
 </div>
 
 
-
- 
-
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <div align="center">
