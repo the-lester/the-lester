@@ -39,7 +39,7 @@
 ```javascript
 
 const SEPEHR = {
-langs:["javascript" , "html" , "css" , 'python' , "typescript" , "sql"],
+langs:["javascript" , "html" , "css" , 'python' , "typescript" , "sql"  , "promp enginer"] ,
 tools:[
 "react" ,
 "next" ,
